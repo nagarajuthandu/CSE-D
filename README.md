@@ -14,3 +14,17 @@ List of Experiments
 10. Write a program to show user details using HTML, CSS & AJAX
 11. Write a program to display options in a search engine using Ajax. 
 
+Micro-Projects: Student must submit a report on one of the following Micro–Projects before
+commencement of second internal examination.
+1. Develop Project MyNote - A HTML5 App
+2. Develop a Bookstore application by using HTML5, CSS, jquery in Github
+3. Develop a shopping cart application by using HTML5, CSS, jquery in Github
+4. Develop an e-learning system using HTML5, CSS, jquery in Github
+5. Build a personal portfolio webpage using HTML5, CSS, jquery.
+6. Develop google.com Search result page using HTML5, CSS, jquery & Ajax
+7. Develop a webpage to display solar system using HTML5, CSS, jquery & Ajax
+8. Build Tajmahal using CSS.
+9. Build a Real-Time Markdown Editor with Node.js
+10. Develop an User model covering, Registration, Email verification(send an email), Login (with
+remember me)
+11. Develop Chess Game using HTML5, CSS, jquery & Ajax 
